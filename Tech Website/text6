@@ -1,0 +1,52 @@
+/* selector .elementor-widget {
+    width: 400px;
+    opacity: 0;
+    transition: all 0.5s linear;
+}
+
+selector > .e-child {
+    display: flex;
+    flex-wrap: nowrap;
+    cursor: pointer;
+}
+
+selector .elementor-widget-wrap {
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s linear !important;
+}
+
+selector > .e-child {
+    display: flex;
+    flex-direction: column;
+    min-width: 1px;
+    transition: all 0.5s linear;
+    overflow: hidden;
+}
+
+selector > .e-child:hover {
+    width: 100%;
+}
+
+selector > .e-child:hover .elementor-widget {
+    opacity: 1;
+}
+
+@media (max-width: 1024px) {
+    selector .elementor-widget {
+        width: 300px;
+    }
+}
+
+@media (max-width: 767px) {
+    selector .elementor-widget-wrap {
+        height: 300px;
+    }
+    selector > .e-child:hover .elementor-widget-wrap {
+        height: 380px;
+    }
+    selector > .e-child {
+        flex-wrap: wrap;
+    }
+} */
+
