@@ -66,6 +66,10 @@ html, body{
      gap: 20px;
 }
 
+#hamburger-icon {
+    display: block;
+}
+
 #hero{
     height: 50vh;
     /* background-color: azure; */
@@ -81,6 +85,21 @@ html, body{
     width: 75%;
     color: #E7CFB1;
     font-weight: 500;
+    animation-name: fade;
+    animation-duration: 1s;
+    animation-iteration-count: 1;
+    animation-timing-function: linear;
+    /* transition: all ease 0.3s; */
+}
+
+@keyframes fade {
+    from{
+        transform: translateX(10%);
+    }
+    to{
+        transform: translateX(0%)
+    }
+    
 }
 
 #hero img{
@@ -88,10 +107,19 @@ html, body{
     width: 300px;
     transition: all ease-in 3s;
     cursor: pointer;
+    animation-name: rotate;
+    animation-timing-function: linear;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
 }
 
-#hero img:hover{
-    transform: rotate(360deg);
+@keyframes rotate {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
 }
 
 #hero-bottom{
@@ -146,12 +174,13 @@ html, body{
     height: 100%;
     width: 100%;
     padding: 0 50px;
+    object-fit: cover;
 }
 
 #box-2 img{
     width: 100%;
     height: 80%;
-    object-fit: cover;
+   
 }
 
 #box-3{
@@ -535,12 +564,13 @@ html, body{
     background-color: #171614;
     padding-left: 50px;
     display: flex;
+    object-fit: cover;
 }
 
 #box-7 img{
     height: 800px;
     width: 800px;
-    object-fit: cover;
+    
 }
 
 #box-7 img:hover{
@@ -716,7 +746,8 @@ html, body{
     grid-template-columns: auto auto;
     grid-column-gap: 20px;
     justify-content: center;
-    align-items: center;
+    place-items: center;
+    place-content: center;
     /* width: 50%; */
     /* background-color: #E5813E; */
     padding-right: 100px;
@@ -796,6 +827,7 @@ html, body{
 #box-10{
     background-color: #242222;  
     height: 150px;
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -860,7 +892,7 @@ html, body{
 .form-1{
     height: 100px;
     display: flex;
-    justify-content: center;
+    align-items: center;
     padding: 0 0 0 100px;
     /* background-color: #9c5b79; */
 }

@@ -1,0 +1,1206 @@
+@media (max-width:1441px) {
+  
+    #hero h1{
+        font-size: 100px;
+        line-height: 100px;
+        width: 70%;
+    }
+
+    #box-2{
+        height: 800px;
+    }
+
+    #box-2 img{
+        height: 80%;
+    }
+
+    #box-3 img{
+        top:195%;
+    }
+    
+    #box3-content{
+        padding: 0 200px;
+    }
+
+    #box-4{
+        height: 30vh;
+    }
+
+    #box-7{
+        padding: 50px 50px;
+    }
+
+    #box-7 img{
+        height: 500px;
+        width: 500px;
+    }
+
+    #box-7 h2{
+        font-size: 50px;
+        line-height: 50px;
+        width: 70%;
+    }
+
+    #box9-child1{
+        padding-left: 150px;
+    }
+
+    #box9-child1 h2{
+        font-size: 50px;
+        line-height: 50px;
+        width: 70%;
+    }
+
+    #box9-child2{
+        grid-column-gap: 10px;
+    }
+
+    #box-11{
+        padding: 0;
+        align-items: center;
+    }
+
+    #map iframe{
+        height: 100%;
+    }
+
+    #f-heading h2{
+        font-size: 50px;
+        line-height: 50px;
+        width: 60%;
+        margin-bottom: 10px;
+    }
+
+    #map{
+        height: 700px;
+    }
+
+    #form{
+        height: 700px;
+    }
+
+    #footer{
+        height: 50vh;
+    }
+
+    #foot2{
+        height: 30vh;
+    }
+
+    
+}
+
+/* 
+@media (max-width:1025px) {
+
+    #box-1{
+        height: 70vh;
+    }
+    #hero h1{
+        font-size: 55px;
+        line-height: 55px;
+        width: 50%;
+    }
+
+    #hero img{
+        height: 200px;
+        width: 200px;
+    }
+
+
+    #box-2{
+        height: 600px;
+    }
+
+    #box-2 img{
+        height: 80%;
+    }
+
+    #box-3 img{
+        top:195%;
+        width: 150px;
+        height: 150px;
+    }
+    
+    #box3-content{
+        padding: 0 100px;
+    }
+
+    #box3-content h2{
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    #box3-content button{
+        padding: 15px 5px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+  .box{
+    padding: 40px 0 20px 20px  ;
+  }
+
+    .box h3{
+        font-size: 16px;
+    }
+
+    .box p{
+        font-size: 16px;
+    }
+
+    .box i{
+        font-size: 40px;
+    }
+
+    .box3-boxes{
+        width: 20%;
+    }
+
+    #box-4{
+        height: 20vh;
+        padding: 20px 0;
+    }
+
+    .animated-text h1{
+        font-size: 210px;
+    line-height: 180px;
+
+    }
+
+    #box-5{
+        height: 60vh;
+        padding: 20px 40px;
+    } 
+
+    .box5-container a{
+        color: #E7CFB1;
+        font-weight: 500;
+        text-decoration: none;
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .box5-container h4 a{
+        font-size: 12px;
+        line-height: 20px;
+    }
+    
+    .box5-container h2 a{
+        font-size: 23px;
+        line-height: 40px;
+    }
+
+    
+    #box6-child1 h4{
+       font-size: 16px;
+       line-height: 21px;
+    }  
+
+      
+    #box6-child1 h2{
+        font-size: 40px;
+        line-height: 40px;
+     }  
+
+
+
+
+
+    #box-7{
+        padding: 50px 50px;
+    }
+
+    #box-7 img{
+        height: 500px;
+        width: 500px;
+    }
+
+    #box-7 h2{
+        font-size: 50px;
+        line-height: 50px;
+        width: 70%;
+    }
+
+    #box9-child1{
+        padding-left: 150px;
+    }
+
+    #box9-child1 h2{
+        font-size: 50px;
+        line-height: 50px;
+        width: 70%;
+    }
+
+    #box9-child2{
+        grid-column-gap: 10px;
+    }
+
+    #box-11{
+        padding: 0;
+        align-items: center;
+    }
+
+    #map iframe{
+        height: 100%;
+    }
+
+    #f-heading h2{
+        font-size: 50px;
+        line-height: 50px;
+        width: 60%;
+        margin-bottom: 10px;
+    }
+
+    #map{
+        height: 700px;
+    }
+
+    #form{
+        height: 700px;
+    }
+
+    #footer{
+        height: 50vh;
+    }
+
+    #foot2{
+        height: 30vh;
+    }
+
+    
+} */
+
+@media (max-width: 1025px) {
+
+    
+    #box-1{
+        height: 70vh;
+    }
+
+    #hero h1 {
+        font-size: 55px;
+        line-height: 55px;
+        width: 50%;
+    }
+
+    #hero img{
+        height: 200px;
+        width: 200px;
+    }
+
+    #box-2 {
+        height: 600px;
+        object-fit: cover;
+    }
+
+    #box-2 img {
+        height: 80%;
+    }
+
+    #box-3 img {
+        top: 195%;
+        width: 150px;
+        height: 150px;
+    }
+    
+    #box3-content {
+        padding: 0 100px;
+    }
+
+    #box3-content h2{
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    #box3-content button{
+        padding: 15px 5px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    
+  .box{
+    padding: 40px 0 20px 20px  ;
+  }
+
+    .box h3{
+        font-size: 16px;
+    }
+
+    .box p{
+        font-size: 16px;
+    }
+
+    .box i{
+        font-size: 40px;
+    }
+
+    #box-4 {
+        height: 25vh;
+    }
+
+    .animated-text h1{
+        font-size: 210px;
+    line-height: 180px;
+
+    }
+
+    #box-5 .box5-container {
+        width: 300px;
+    }
+
+    .child2{
+        height: 150px;
+    }
+
+     
+    #box6-child1 h4{
+        font-size: 16px;
+        line-height: 21px;
+     }  
+ 
+       
+     #box6-child1 h2{
+         font-size: 40px;
+         line-height: 40px;
+      }  
+
+      .child2{
+        width: 70%;
+      }
+
+      .child2 a{
+        font-size: 25px;
+        line-height: 24px;
+      }
+
+    .child2 p{
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .child2 i{
+        font-size: 25px;
+    }
+
+    #box-7 {
+        padding: 40px 40px;
+    }
+
+    #box-7 img {
+        height: 400px;
+        width: 400px;
+    }
+
+    #box-7 h2 {
+        font-size: 40px;
+        line-height: 40px;
+        width: 90%;
+    }
+
+    #box-7 button{
+        padding: 15px 5px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    #box-9{
+        height: 60vh;
+    }
+
+    #box9-child1 {
+        padding-left: 100px;
+    }
+
+    #box9-child1 h2 {
+        font-size: 40px;
+        line-height: 40px;
+        width: 80%;
+    }
+
+    #box9-child2 {
+        grid-column-gap: 8px;
+        grid-row-gap: 8px;  
+    }
+
+    .backbox{
+        height: 150px;
+        width: 150px;
+    }
+
+    #box-10 img{
+        height: 100px;
+        width: 150px;
+    }
+
+    #box-11 {
+        padding: 0;
+        align-items: center;
+    }
+
+    #map iframe {
+        height: 100%;
+    }
+
+    #f-heading{
+        height: 150px;
+        padding: 0 0 0 50px;
+    
+    }
+
+    #f-heading h2 {
+        font-size: 40px;
+        line-height: 40px;
+        width: 70%;
+        margin-bottom: 8px;
+    }
+
+    #map {
+        height: 600px;
+    }
+
+    #form {
+        height: 600px;
+    }
+
+    .form-1{
+        height: 100px;
+        padding: 0 0 0 50px;
+        gap:5px;
+    }
+
+    #form-1{
+        height: 100px;
+        gap: 5px;
+        padding: 0 0 0 50px;
+    }
+
+    #form1 button{
+        padding: 15px 5px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    #form-1 label{
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    
+
+    #footer {
+        height: 45vh;
+    }
+
+    #foot2 {
+        height: 25vh;
+    }
+}
+
+@media (max-width: 769px) {
+
+    #nav {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px; /* adjust depending on your navbar height */
+        right: 0;
+        background-color: #242424; /* or your preferred background color */
+        width: 100%; /* Full width for a mobile menu */
+        padding: 10px;
+    }
+
+    #nav a {
+        padding: 15px;
+        text-align: center;
+        border-bottom: 1px solid #ddd;
+    }
+
+    #hamburger-icon {
+        display: block;
+        color: #ddd;
+    }
+
+    #box-1 {
+        height: 60vh;
+    }
+
+    #hero h1 {
+        font-size: 40px;
+        line-height: 40px;
+        width: 60%;
+    }
+
+    #hero img {
+        height: 150px;
+        width: 150px;
+    }
+
+    #box-2 {
+        height: 500px;
+        object-fit: cover;
+    }
+
+    #box-2 img {
+        height: 70%;
+    }
+
+    #box-3{
+        height: 60vh;
+
+    }
+
+    #box-3 img {
+        top: 170%;
+        width: 120px;
+        height: 120px;
+    }
+
+    #box3-content {
+        padding: 0 50px;
+    }
+
+    #box3-content h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    #box3-content p {
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    #box3-content button {
+        padding: 12px 5px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    .box {
+        padding: 20px 0 20px 20px;
+    }
+
+    .box h3 {
+        font-size: 12px;
+    }
+
+    .box p {
+        font-size: 12px;
+    }
+
+    .box i {
+        font-size: 30px;
+    }
+
+    #box-4 {
+        height: 20vh;
+    }
+
+    .animated-text h1 {
+        font-size: 180px;
+        line-height: 150px;
+    }
+
+    #box-5 .box5-container {
+        width: 250px;
+    }
+
+    .child2 {
+        height: 120px;
+    }
+
+    #box-6{
+        height: 80vh;
+    }
+
+    #box6-child1 h4 {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    #box6-child1 h2 {
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .child2 {
+        width: 70%;
+    }
+
+    .child2 a {
+        font-size: 22px;
+        line-height: 22px;
+    }
+
+    .child2 p {
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .child2 i {
+        font-size: 22px;
+    }
+
+    #box-7 {
+        padding: 30px 30px;
+    }
+
+    #box-7 img {
+        height: 350px;
+        width: 350px;
+    }
+
+    #box-7 h2 {
+        font-size: 25px;
+        line-height: 25px;
+        width: 100%;
+    }
+
+    #box-7 button {
+        padding: 12px 5px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    #box-8{
+        padding: 10px 0 10px 0;
+    }
+
+    #back{
+        justify-content: center;
+        gap: 100px;
+    }
+
+    #back h2{
+        font-size: 100px;
+        padding: 20px 0 20px 0;
+    }
+
+    #box-9 {
+        height: 100vh;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #box9-child1 {
+        align-items: center;
+        padding-left: 0;
+    }
+
+    #box9-child1 h2 {
+        text-align: center;
+        font-size: 35px;
+        line-height: 35px;
+        width: 75%;
+    }
+
+    #box9-child1 p{
+        text-align: center;
+    }
+
+    #box9-child2 {
+        grid-column-gap: 10px;
+        grid-row-gap: 10px;
+        padding: 30px 30px;
+    }
+
+    .backbox {
+        height: 200px;
+        width: 200px;
+    }
+
+    #box-10 img {
+        height: 60px;
+        width: 120px;
+    }
+
+    #box-11 {
+        padding: 0;
+        align-items: center;
+        height: 70vh;
+    }
+
+    #map iframe {
+        height: 100%;
+    }
+
+    #f-heading {
+        height: 120px;
+        padding: 0 0 0 40px;
+    }
+
+    #f-heading h2 {
+        font-size: 30px;
+        line-height: 30px;
+        width: 60%;
+        margin-bottom: 6px;
+    }
+
+    #map {
+        height: 450px;
+    }
+
+    #form {
+        height: 450px;
+    }
+
+    .form-1 {
+        height: 80px;
+        padding: 0 0 0 40px;
+        gap: 4px;
+    }
+
+    #form-1 {
+        height: 80px;
+        gap: 4px;
+        padding: 0 0 0 40px;
+    }
+
+    #form1 button {
+        padding: 12px 5px;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    #form-1 label {
+        font-size: 5px;
+        line-height: 6px;
+    }
+
+    #footer {
+        height: 40vh;
+    }
+
+    #foot-icon  i{
+        color: #E7CFB1;
+        border: 1px solid #242222;
+        background-color: #171614;
+        padding: 10px;
+        margin: 2px;
+    
+    }
+
+    #foot1 p{
+        font-size: 12px;
+    }
+
+    #foot2 {
+        height: 20vh;
+    }
+}
+
+@media (max-width: 425px) {
+
+    /* Navbar */
+    #nav-container{
+        display: none;
+    }
+    
+    #nav {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 60px; 
+        right: 0;
+        background-color: #242424; 
+        width: 100%; 
+        padding: 10px;
+    }
+
+    #nav a {
+        padding: 10px;
+        text-align: center;
+        border-bottom: 1px solid #ddd;
+    }
+
+    #hamburger-icon {
+        display: block;
+        color: #ddd;
+    }
+
+    /* Box 1 */
+    #box-1 {
+        height: 50vh;
+    }
+
+    #hero{
+        height: 30vh;
+    }
+
+    #hero h1 {
+        font-size: 20px;
+        line-height: 20px;
+        width: 50%;
+    }
+
+    #hero img {
+        height: 100px;
+        width: 100px;
+    }
+
+
+    #hero-bottom{
+        align-items: flex-start;
+        height: 200px;
+        flex-direction: column;
+        margin: 0;  
+    }
+
+    #hero-bottom p{
+        font-size: 10px;
+    }
+
+    #hero-bottom i{
+        font-size: 10px;
+        margin: 0;
+    }
+
+    #hero-bottom a{
+        font-size: 10px;
+    }
+
+
+    #icon-container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+        margin: 0;
+    }
+
+    /* Box 2 */
+    #box-2 {
+        height: 30vh;
+        object-fit: cover;
+    }
+
+    #box-2 img {
+        height: 100%;
+    }
+
+    /* Box 3 */
+    #box-3 {
+        flex-direction: column;
+        height: 80vh;
+    }
+
+    #box-3 img {
+        top: 150%;
+        width: 100px;
+        height: 100px;
+        display: none   ;
+    }
+
+    .box3-boxes{
+        flex-direction: row;
+        height: 50%;
+        width: 100%;
+        margin: 0;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    #box3-content {
+        justify-content: center;
+        align-items: center;
+        padding: 0;
+    }
+
+    #box3-content h2 {
+        text-align: center;
+        font-size: 25px;
+        line-height: 25px;
+    }
+
+    #box3-content p {
+        text-align: center;
+        font-size: 12px;
+        line-height: 14px;
+    }
+
+    #box3-content button {
+        padding: 10px 5px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    /* General Box Styles */
+    .box {
+        height: 150px;
+        padding: 10px 40px 10px 40px;
+    }
+
+    .box h3 {
+        font-size: 10px;
+    }
+
+    .box p {
+        font-size: 10px;
+    }
+
+    .box i {
+        font-size: 25px;
+    }
+
+    /* Box 4 */
+    #box-4 {
+        height: 15vh;
+    }
+
+    .animated-text h1 {
+        font-size: 150px;
+        line-height: 120px;
+    }
+
+    /* Box 5 */
+    #box-5 .box5-container {
+        width: 200px;
+    }
+
+    .child2 {
+        height: 100px;
+    }
+
+    /* Box 6 */
+    #box-6 {
+        height: 115%;
+    }
+
+    #box6-child1{
+        height: 200px;
+        width: 100%;
+        margin-left: 20px;
+    }
+
+    #box6-child1 h4 {
+        font-size: 12px;
+        line-height: 16px;
+    }
+
+    #box6-child1 h2 {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .child2 {
+        height: 250px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+        margin: 0 auto;
+        width: 90%;
+    }
+
+    .child2 a {
+        font-size: 18px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+
+    .child2 p {
+        font-size: 8px;
+        line-height: 12px;
+        margin-bottom: 10px;
+    }
+
+    .child2 i {
+        font-size: 18px;
+        margin-bottom: 10px;
+    }
+
+    /* Box 7 */
+    #box-7 {
+        flex-direction: column;
+        padding: 0;
+        align-items: center;
+    }
+
+    #box-7 img {
+        height: 300px;
+        width: 300px;
+    }
+
+    #box7-child{
+        width: 80%;
+        padding: 20px 0;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #box-7 h2 {
+        font-size: 20px;
+        line-height: 20px;
+        width: 100%;
+        text-align: center;
+    }
+
+    #box-7 p{
+        text-align: center;
+    }
+
+    #box-7 button {
+        padding: 10px 5px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    /* Box 8 */
+    #box-8 {
+        padding: 5px 0 5px 0;
+    }
+
+    #back {
+        justify-content: center;
+        gap: 18px;
+        padding: 0 30px;
+    }
+
+    #top{
+        justify-content: center;
+    }
+
+    #top h4{
+        font-size: 10px;
+        padding: 0 30px 0 30px;
+    }
+    
+
+    #back h2 {
+        font-size: 80px;
+        padding: 15px 0 15px 0;
+    }
+
+    /* Box 9 */
+    #box-9 {
+        height: 80vh;
+        flex-direction: column;
+        width: 100%;
+      
+    }
+
+    #box9-child1 {
+        align-items: center;
+        padding: 30px 0;
+    }
+
+    #box9-child1 h2 {
+        text-align: center;
+        font-size: 30px;
+        line-height: 30px;
+        width: 70%;
+    }
+
+    #box9-child1 p {
+        text-align: center;
+    }
+
+    #box9-child2 {
+        grid-column-gap: 5px;
+        grid-row-gap: 5px;
+        padding: 20px 20px;
+    }
+
+    .backbox {
+        height: 150px;
+        width: 150px;
+    }
+
+    /* Box 10 */
+    #box-10 img {
+        height: 40px;
+        width: 50px;
+    }
+
+    /* Box 11 */
+    #box-11 {
+        padding: 0;
+        align-items: center;
+        height: 60vh;
+    }
+
+    #map iframe {
+        height: 100%;
+    }
+
+    /* Footer Heading */
+    #f-heading {
+        height: 100px;
+        padding: 0 0 0 20px;
+    }
+
+    #f-heading h2 {
+        font-size: 25px;
+        line-height: 25px;
+        width: 50%;
+        margin-bottom: 5px;
+    }
+
+    /* Map and Form */
+
+    #box-11{
+        height: 95vh;
+        flex-direction: column;
+    }
+    #map {
+        height: 400px;
+        width: 100%;
+    }
+
+    #form {
+        padding: 30px 0;
+        height: 350px;
+        width: 100%;
+    }
+
+    .form-1 {
+        height: 60px;
+        padding: 0 0 0 20px;
+        gap: 3px;
+    }
+
+    #form-1 {
+        height: 60px;
+        gap: 3px;
+        padding: 0 0 0 20px;
+    }
+
+    #form1 button {
+        padding: 10px 5px;
+        font-size: 10px;
+        line-height: 12px;
+    }
+
+    #form-1 label {
+        font-size: 8px;
+        line-height: 10px;
+    }
+
+    /* Footer */
+    #footer {
+        height: 35vh;
+    }
+
+    #foot-icon i {
+        color: #E7CFB1;
+        border: 1px solid #242222;
+        background-color: #171614;
+        padding: 8px;
+        margin: 2px;
+    }
+
+    #foot1{
+        flex-direction: column;
+    }
+
+    #foot1 p {
+        font-size: 10px;
+    }
+
+    #foot2 {
+        height: 18vh;
+    }
+}
+
+
